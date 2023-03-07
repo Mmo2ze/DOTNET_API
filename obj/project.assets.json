@@ -3979,11 +3979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\ZEPE.csproj",
+      "projectUniqueName": "c:\\Users\\AHMED\\Desktop\\GitHub\\DOTNET_API\\ZEPE.csproj",
       "projectName": "ZEPE",
-      "projectPath": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\ZEPE.csproj",
+      "projectPath": "c:\\Users\\AHMED\\Desktop\\GitHub\\DOTNET_API\\ZEPE.csproj",
       "packagesPath": "C:\\Users\\AHMED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\obj\\",
+      "outputPath": "c:\\Users\\AHMED\\Desktop\\GitHub\\DOTNET_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AHMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
